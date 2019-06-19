@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          eNe One - GIT
+          Desafio eNe One - GIT
         </p>
       </header>
     </div>
